@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Browser - Open Browser - UiPath Blog website",
+  "Type": "Screen",
+  "Id": "0EeLVc8_8EudYuIGEc7kFg",
+  "Reference": "yzYl70_L_kSq6fzPhzen9w/0EeLVc8_8EudYuIGEc7kFg",
+  "ParentRef": "yzYl70_L_kSq6fzPhzen9w/_xmeErfFjkKZ6z_Vduw2zQ",
+  "Created": "2025-06-30T15:33:22.0593333Z",
+  "Updated": "2025-06-30T15:33:22.0593333Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="T_9_0BvQl0OPdg8kXxxkfw" Reference="yzYl70_L_kSq6fzPhzen9w/GmPWHemttUKKUB-VIQ5maQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.uipath.com/blog/2" DesignTimeRectangle="11, -1209, 1897, 5058" DesignTimeScaleFactor="1.125" FullSelectorArgument="&lt;webctrl parentid='gatsby-focus-wrapper' tag='DIV' /&gt;" Guid="35114af6-e986-4639-bc2a-e8026c54867a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Results page 2 for Latest Articles on RPA News and Automation Insights | UiPath Blog' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="627ff62a4fd76c10fd5d0f3f89e233a1.png" xmlns="">0gSkmHmhYx0WKm3kWv0jzPQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Blog titles 2'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataNextLink' /&gt;
+&lt;/Table&gt;</p:InArgument>
+    <TargetAnchorable x:Key="NextLinkTarget" BrowserURL="uipath.com/blog/2" CVScreenId="9dc5f2e7-3fc3-4f6f-b5f0-b618f024dd1f" CvElementArea="1127, 687, 95, 62" CvTextArea="1146, 708, 37, 16" CvTextArgument="Next" CvType="Button" DesignTimeRectangle="1130, 688, 91, 58" DesignTimeScaleFactor="1.125" ElementType="Text" FullSelectorArgument="&lt;webctrl class='Pagination__Next-Button' parentid='gatsby-focus-wrapper' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl class='Pagination__Next-Button' parentid='gatsby-focus-wrapper' tag='A' type='' aaname='Next&amp;gt;' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Next&amp;gt;' /&gt;" Guid="9d82ef0c-d85c-42f5-b706-59759f38610f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Results page 2 for Latest Articles on RPA News and Automation Insights | UiPath Blog' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

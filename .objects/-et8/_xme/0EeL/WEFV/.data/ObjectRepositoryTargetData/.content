@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mFrRDNGoAk6tDcE7i3cGgg" Reference="yzYl70_L_kSq6fzPhzen9w/WEFVxOP4P0ils4e3jN291g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.uipath.com/blog/2" ContentHash="x855pKsdM0-MF2D0QnKfuw" DesignTimeRectangle="11, -159, 1897, 5078" DesignTimeScaleFactor="1.125" FullSelectorArgument="&lt;webctrl parentid='gatsby-focus-wrapper' tag='DIV' /&gt;" Guid="862d65a8-4e35-4a74-a898-a87713c61213" Reference="yzYl70_L_kSq6fzPhzen9w/WEFVxOP4P0ils4e3jN291g" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Results page 2 for Latest Articles on RPA News and Automation Insights | UiPath Blog' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8c9e8c350936452d1821315133ee6511.png" xmlns="">0NvvLYxURckyp_YZkHxLY-A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Blog Titles'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column1' Name='Blog Titles Url'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;true&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column2' Name='Date'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataNextLink' /&gt;
+&lt;/Table&gt;</p:InArgument>
+    <TargetAnchorable x:Key="NextLinkTarget" BrowserURL="uipath.com/blog/2" CVScreenId="1fb98c1a-424a-46fd-9d26-4bc8f96bd95e" CvElementArea="1127, 387, 96, 62" CvTextArea="1146, 408, 37, 16" CvTextArgument="Next" CvType="Button" DesignTimeRectangle="1130, 388, 91, 58" DesignTimeScaleFactor="1.125" ElementType="Text" FullSelectorArgument="&lt;webctrl class='Pagination__Next-Button' parentid='gatsby-focus-wrapper' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl class='Pagination__Next-Button' parentid='gatsby-focus-wrapper' tag='A' type='' aaname='Next&amp;gt;' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Next&amp;gt;' /&gt;" Guid="cc61f9a2-4c1a-484b-8c8e-3b9c71401ae8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Results page 2 for Latest Articles on RPA News and Automation Insights | UiPath Blog' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="1fb98c1a-424a-46fd-9d26-4bc8f96bd95e" CvElementArea="1064, 386, 58, 62" CvTextArea="1082, 407, 22, 18" CvTextArgument="67" CvType="Button" DesignTimeRectangle="1067, 388, 54, 58" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='67' class='Pagination__Numbered-Button' parentid='gatsby-focus-wrapper' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='67' class='Pagination__Numbered-Button' parentid='gatsby-focus-wrapper' tag='A' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' check:innerText='67' /&gt;" Guid="d17becc0-40ad-4162-a38a-4b664e9dc964" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
